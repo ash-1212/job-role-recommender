@@ -1,0 +1,21 @@
+job_role,skills
+Data Scientist,python machine_learning statistics sql data_analysis numpy pandas deep_learning tensorflow keras visualization
+Machine Learning Engineer,python tensorflow pytorch deep_learning neural_networks model_deployment kubernetes docker mlops scikit_learn
+Data Analyst,sql excel python data_visualization power_bi tableau statistics reporting pandas numpy
+Backend Developer,python java nodejs sql rest_api databases docker git authentication microservices
+Frontend Developer,javascript html css react vuejs typescript ui_ux git responsive_design api_integration
+Full Stack Developer,javascript python html css react nodejs sql git docker rest_api
+DevOps Engineer,aws docker kubernetes linux ci_cd git terraform ansible monitoring cloud_infrastructure
+Cloud Architect,aws azure google_cloud kubernetes terraform networking security cloud_infrastructure devops
+Cybersecurity Analyst,networking ethical_hacking linux firewalls penetration_testing security_protocols siem encryption
+Mobile Developer,flutter dart react_native javascript ios android firebase api_integration ui_ux
+AI Research Scientist,python deep_learning mathematics statistics nlp computer_vision transformers pytorch research
+NLP Engineer,python nlp transformers bert gpt text_processing spacy huggingface pytorch tensorflow
+Computer Vision Engineer,python opencv deep_learning convolutional_networks tensorflow pytorch image_processing object_detection
+Database Administrator,sql mysql postgresql mongodb database_design indexing backup_recovery performance_tuning
+Blockchain Developer,solidity ethereum javascript web3 smart_contracts cryptography nodejs decentralized
+Game Developer,unity csharp unreal_engine cpp game_design physics_engine 3d_modeling animation
+Data Engineer,python sql spark hadoop etl pipeline airflow kafka cloud aws
+Business Intelligence Developer,sql power_bi tableau excel data_modeling reporting analytics dashboard business_analysis
+Automation Engineer,python selenium testing ci_cd scripting jenkins git automation devops
+Robotics Engineer,python ros cpp embedded_systems sensors control_systems matlab simulation hardware
